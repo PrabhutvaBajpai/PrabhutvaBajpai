@@ -82,6 +82,6 @@
 
 <div align="center">
   
-<h3> 📄  Please check out my <a href="https://file.notion.so/f/f/ed98e96b-e736-40d7-9461-54ab1d920d6e/1914b5ad-78ef-4258-9b97-5d3f96002bc8/Resume-Prabhutva_Bajpai.pdf?table=block&id=217dfbfc-0e13-8099-89e1-c6b7bf025f0c&spaceId=ed98e96b-e736-40d7-9461-54ab1d920d6e&expirationTimestamp=1750356000000&signature=5ZuH3eAOaaEJ8RzH4tMqVjHkckLSqcsYcEVe4cJC4pY&downloadName=Resume-Prabhutva+Bajpai.pdf"> Resume </a> ❤️ for more information about my experience and skills.</h3>
+<h3> 📄  Please check out my <a href="https://drive.google.com/file/d/1UlgfMmC5MBB_uvAnMAaFtqOYvl3e4ddW/view?usp=sharing"> Resume </a> ❤️ for more information about my experience and skills.</h3>
 
 </div>
