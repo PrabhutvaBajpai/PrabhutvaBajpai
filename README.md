@@ -63,18 +63,18 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="40" height="40" />
       <br>Swift
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
       <br>Golang
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
@@ -83,10 +83,10 @@
         <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
       <br>MongoDB
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="40" height="40" />
       <br>PostgreSQL
-    </td>
+    </td> -->
   </tr>
   <tr>
   <td align="center" width="96">
@@ -116,10 +116,10 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
       <br>TailWind CSS
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="threejs" />
       <br>Three.js
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
       <br>jQuery
