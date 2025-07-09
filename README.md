@@ -33,6 +33,18 @@
 👨‍💻I have experience working with JavaScript, React.js, Express.js & MongoDB.
 </p>
 
+<!-- About me  -->
+<!--
+```js
+About Me =
+{"I find joy in crafting elegant solutions through the art of coding.",
+"Proficient in languages like Python and C++, I navigate the digital realm with expertise.",
+"My expertise extends to the intricate web technologies of NextJS, Golang, and DevOps, where I blend creativity and functionality seamlessly.",
+"I am more than a student; I am a creator, a problem solver, and a Developer."
+"Together, let's push the boundaries of what's possible and shape a future powered by code. ✨"}
+``` 
+-->
+
 <br>
 <br>
 
@@ -83,17 +95,20 @@
         <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
       <br>MongoDB
     </td>
+           <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" atl="HTML" />
+      <br>HTML</td>
 <!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="40" height="40" />
       <br>PostgreSQL
     </td> -->
   </tr>
   <tr>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" />
-      <br>HTML
+<!--         <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" atl="HTML" />
+      <br>HTML</td> -->
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96"> 
@@ -109,7 +124,7 @@
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" alt="Nextjs" />
       <br>NextJS
     </td>
     <td align="center"  width="96">
@@ -120,10 +135,6 @@
         <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="threejs" />
       <br>Three.js
     </td> -->
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
-      <br>jQuery
-    </td>
   </tr>
  <tr>
       <td align="center" width="96">
@@ -139,31 +150,35 @@
         <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express" />
       <br>ExpreeJS
     </td>
-            <td align="center" width="96">
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java"width="40" height="40" alt="java" />
+      <br>java
+    </td>
+<!--             <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" height="40" alt="django" />
       <br>Django
-    </td>
+    </td> -->
               <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="rest" />
       <br>REST
     </td>
-              <td align="center" width="96">
+<!--               <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" height="40" alt="GraphQL" />
-      <br>GraphQL
+      <br>GraphQL -->
   <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
       </a>
       <br>AWS
     </td>
-              <td align="center" width="96">
+<!--               <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
       <br>Docker
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" />
       <br>Kubernetes
-    </td>
+    </td> -->
  </tr>
 </table>
 
@@ -199,6 +214,18 @@
     <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS3" alt="css3" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="javascript" width="40" height="40"/></a></code>&nbsp;
   
+</div>
+<br>
+
+<!-- Skill Set (Cloud)  -->
+<div align="center">
+    <h3><b>Cloud</b></h3>
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
+<!--     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="google cloud" alt="google cloud" width="40" height="40"/> </a></code>&nbsp; -->
+<!--       <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp; -->
+        <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Cib-netlify_%28CoreUI_Icons_v1.0.0%29.svg" title="Netlify" alt="Netlify" width="40" height="40"/> </a></code>&nbsp;&nbsp;
+  <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/logo-vercel-icon-512x444-szlkql7g.png" title="Vercel" alt="vercel" width="40" height="40"/></a></code>&nbsp;
+<!--     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" title="Heroku" alt="heroku" width="40" height="40"/></a></code>&nbsp; -->
 </div>
 <br>
 
