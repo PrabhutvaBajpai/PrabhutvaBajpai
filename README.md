@@ -36,13 +36,14 @@
 <br>
 <br>
 
+<img align="center" width="400px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTV3Nmx1eWc2eTNpY2lwemtrNjAxc2c0MDQ4MGNzbTAxbTU5Ymw1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KphDFbotQHzU5LBnBu/giphy.gif" />
+<br>
+
 <!-- Skill Set  -->
 <div align="center">
     <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
     <h4>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions. </h4>
 </div>
-
-<img align="center" width="400px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTV3Nmx1eWc2eTNpY2lwemtrNjAxc2c0MDQ4MGNzbTAxbTU5Ymw1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KphDFbotQHzU5LBnBu/giphy.gif" />
 
 <br>
 <h1 align="center">My Tech-Stack:</h1>
